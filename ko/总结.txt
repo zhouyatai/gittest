@@ -1,0 +1,33 @@
+                                    PYTHON学习总结
+1、介绍python
+面向对象的解释型的高级编程语言
+2、六种数据类型
+字符串、列表、元组、集合、字典、数值
+3、判断语句
+if -- else
+if -- elif -- else
+4、循环
+for循环和while循环
+for -- else
+while -- else
+存在break语句时，else代码不运行
+break、continue的区别
+5、函数
+作用：
+格式：
+def  函数名()
+return 返回值，用于函数与函数之间的结果的传递
+匿名函数：a = landan  参数：表达式
+a(对参数赋值)
+特点：只能写一行
+参数类型
+无参数、必填参数、默认参数、可变长参数：*args   **kwargs
+6、类
+什么是类：
+什么是对象：
+类属性、对象属性
+属性分为共有属性、私有属性
+从公有私有的角度，对类的方法、属性的划分：
+类的方法：魔法方法__init__  、实例方法、静态方法、私有方法
+类：继承、封装、多态
+7、pymysql、os、os.path、time、datetime、re、paramiko、#重点requests、xlwt、xlrd、emali、SMTPlib等模块
